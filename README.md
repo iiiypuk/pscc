@@ -7,5 +7,5 @@ Special for this [Windows 7 theme](http://liuxiaofei.deviantart.com/art/Photosho
 `-` Radio indicator  
 `-` Always top button  
 `-` Expended UI  
-`-` TrayControl  
+`+` TrayControl  
 `-` Resized playlist
