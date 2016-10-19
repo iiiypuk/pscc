@@ -11,5 +11,5 @@ See. [here](https://raw.githubusercontent.com/iiiypuk/pscc/master/VERSION.md).
 `-` Radio indicator  
 `-` Always top button  
 `-` Expended UI  
-`-` Resized playlist  
-`-` Languages
+`-` Languages  
+`-` Fullscreen mode
