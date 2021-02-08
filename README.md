@@ -6,7 +6,7 @@
 
 **Preview**  
 ![Preview](https://raw.githubusercontent.com/iiiypuk/pscc/master/screen.png)  
-Special for this [Windows 7 theme](http://liuxiaofei.deviantart.com/art/Photoshop-CC-2014-VS-for-Windows-7-531779251) black version.  
+Special for this [Windows 7 theme](http://liuxiaofei.deviantart.com/art/Photoshop-CC-2014-VS-for-Windows-7-531779251) dark version.  
 
 **VERSION HISTORY**  
 Current version `20170214 # build 13`, [GL+PL+TC+QFI]  
